@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMessageSquareReply",
       "LiFileCode2",
       "LiALargeSmall",
       "LiAppWindow",
-      "LiRoute",
-      "🐍"
+      "LiRoute"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,8 +45,6 @@
   },
   "GIT/GIT Commands.md": "LiALargeSmall",
   "Python": "🐍",
-  "GIT/GIT Cheatsheet PDF.pdf": "LiFileCode2",
-  "Python/Virtual Environment initialisieren.canvas": "LiRoute",
   "Databases/SQL Befehle.md": "LiALargeSmall",
   "VSCode": {
     "iconName": "LiAppWindow",
@@ -55,5 +53,7 @@
   "VSCode/Empfehlenswerte Extensions.md": "LiALargeSmall",
   "VSCode/VSCode Keyboard Shortcuts.pdf": "LiFileCode2",
   "VSCode/VSCode Einstellungen.md": "LiALargeSmall",
-  "Python/Python Documentations.md": "LiALargeSmall"
+  "Python/Python Documentations.md": "LiALargeSmall",
+  "Python/Step-by-step Virtual Environment initialisieren.pdf": "LiMessageSquareReply",
+  "Workspace/Virtual Environment initialisieren.canvas": "LiRoute"
 }

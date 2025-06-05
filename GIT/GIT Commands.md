@@ -1,5 +1,6 @@
-[GitHub New Repo](https://github.com/new/)
 
+---
+##### Häufig verwendete GIT-Befehle
 |Befehl     |  Description   |
 | --- | --- |
 |  `git init`   |   lokales GIT Repo initialisieren für aktuelles Verzeichnis  |
@@ -16,7 +17,13 @@
 
 
 ---
+##### Nice-to-know
 Mit folgendem Befehl kann der Standard Branch Name von "master" auf "main" geändert werden. Einfach in der GIT Bash einfügen. (Danke Joel!)
 
 `git config --global init.defaultBranch main`
 
+---
+
+##### Links
+[GitHub New Repo (direkter Link um ein neues Repository anzulegen)](https://github.com/new/)
+[GitHub Cheatsheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)

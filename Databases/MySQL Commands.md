@@ -1,6 +1,11 @@
-`choco install mysql`
 
+---
 
+GIT-Bash mit Administratorrechten starten, folgender Befehl installiert lokal einen MySQL Dienst: `choco install mysql`
+
+---
+
+##### Befehle um den lokalen MySQL Dienst zu konfigurieren, etc.
 |Befehl     |  Description   |
 | --- | --- |
 |  `mysql -u root -p`   |   MySQL Login  |
