@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "GIT/GIT Commands.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "GIT Commands"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "GIT/GIT Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für README"
+              "title": "Rückverweise für GIT Commands"
             }
           },
           {
@@ -169,19 +169,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "effef2275c906561",
+  "active": "a2166858025037dc",
   "lastOpenFiles": [
     "Python/Python Documentations.md",
+    "Python/Step-by-step Virtual Environment initialisieren.pdf",
+    "README.md",
+    "Workspace/Virtual Environment initialisieren.canvas",
+    "VSCode/Empfehlenswerte Extensions.md",
+    "VSCode/VSCode Einstellungen.md",
     "Databases/SQL Befehle.md",
     "Databases/MySQL Commands.md",
     "GIT/GIT Commands.md",
     "VSCode/VSCode Keyboard Shortcuts.pdf",
-    "VSCode/VSCode Einstellungen.md",
-    "VSCode/Empfehlenswerte Extensions.md",
-    "README.md",
-    "Python/Step-by-step Virtual Environment initialisieren.pdf",
     "Workspace/ToDo.md",
-    "Workspace/Virtual Environment initialisieren.canvas",
     "Workspace/canvas-export.html.pdf",
     "Workspace",
     "GIT/GIT Cheatsheet PDF.pdf",

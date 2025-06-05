@@ -1,0 +1,16 @@
+{
+  "lockedNotes": [
+    "VSCode/Empfehlenswerte Extensions.md",
+    "VSCode/VSCode Einstellungen.md",
+    "README.md",
+    "Python/Python Documentations.md",
+    "GIT/GIT Commands.md",
+    "Databases/SQL Befehle.md",
+    "Databases/MySQL Commands.md"
+  ],
+  "mobileNotificationMaxLength": 18,
+  "desktopNotificationMaxLength": 22,
+  "showFileExplorerIcons": true,
+  "showStatusBarButton": true,
+  "showNotifications": true
+}

@@ -4,5 +4,6 @@
   "templater-obsidian",
   "editing-toolbar",
   "drawio-obsidian",
-  "github-sync"
+  "github-sync",
+  "note-locker"
 ]
