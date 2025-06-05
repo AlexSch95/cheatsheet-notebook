@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT Commands.md",
+                "file": "VSCode/Empfehlenswerte Extensions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GIT Commands"
+              "title": "Empfehlenswerte Extensions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/GIT Commands.md",
+                "file": "VSCode/Empfehlenswerte Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für GIT Commands"
+              "title": "Rückverweise für Empfehlenswerte Extensions"
             }
           },
           {
@@ -169,19 +169,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a2166858025037dc",
+  "active": "effef2275c906561",
   "lastOpenFiles": [
-    "Python/Python Documentations.md",
+    "VSCode/VSCode Keyboard Shortcuts.pdf",
     "Python/Step-by-step Virtual Environment initialisieren.pdf",
+    "Python/Python Documentations.md",
+    "GIT/Nice-to-know GIT Einstellungen.md",
+    "GIT/GIT Commands.md",
+    "Workspace/ToDo.md",
     "README.md",
     "Workspace/Virtual Environment initialisieren.canvas",
     "VSCode/Empfehlenswerte Extensions.md",
     "VSCode/VSCode Einstellungen.md",
     "Databases/SQL Befehle.md",
     "Databases/MySQL Commands.md",
-    "GIT/GIT Commands.md",
-    "VSCode/VSCode Keyboard Shortcuts.pdf",
-    "Workspace/ToDo.md",
     "Workspace/canvas-export.html.pdf",
     "Workspace",
     "GIT/GIT Cheatsheet PDF.pdf",
