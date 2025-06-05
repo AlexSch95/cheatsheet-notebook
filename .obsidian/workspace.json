@@ -11,12 +11,14 @@
             "id": "effef2275c906561",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Python/Step-by-step Virtual Environment initialisieren.pdf"
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "Step-by-step Virtual Environment initialisieren"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Step-by-step Virtual Environment initialisieren.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Step-by-step Virtual Environment initialisieren"
+              "title": "Rückverweise für README"
             }
           },
           {
@@ -169,23 +171,23 @@
   },
   "active": "effef2275c906561",
   "lastOpenFiles": [
-    "GIT/GIT Commands.md",
-    "VSCode/Empfehlenswerte Extensions.md",
-    "VSCode/VSCode Einstellungen.md",
     "Python/Python Documentations.md",
+    "Databases/SQL Befehle.md",
+    "Databases/MySQL Commands.md",
+    "GIT/GIT Commands.md",
+    "VSCode/VSCode Keyboard Shortcuts.pdf",
+    "VSCode/VSCode Einstellungen.md",
+    "VSCode/Empfehlenswerte Extensions.md",
+    "README.md",
     "Python/Step-by-step Virtual Environment initialisieren.pdf",
     "Workspace/ToDo.md",
     "Workspace/Virtual Environment initialisieren.canvas",
     "Workspace/canvas-export.html.pdf",
-    "Unbenannt.md",
     "Workspace",
-    "Databases/MySQL Commands.md",
     "GIT/GIT Cheatsheet PDF.pdf",
     "Python/venvablauf (deleted pages) (pdfresizer.com).pdf",
     "Python/Virtual Environment initialisieren.pdf",
     "canvas-export.html",
-    "Databases/SQL Befehle.md",
-    "VSCode/VSCode Keyboard Shortcuts.pdf",
     "VSCode",
     "Virtual Environment initialisieren.md",
     "Untitled Diagram.svg",
