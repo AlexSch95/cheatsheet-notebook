@@ -1,0 +1,9 @@
+{
+  "minimal-style@@maximize-tables-off": "maximize-tables-off",
+  "minimal-style@@col-lines": false,
+  "minimal-style@@col-alt": false,
+  "minimal-style@@row-alt": true,
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@row-hover": false,
+  "minimal-style@@row-lines": false
+}

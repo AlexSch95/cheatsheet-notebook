@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFileCode2",
+      "LiALargeSmall",
+      "LiAppWindow",
+      "LiRoute",
+      "🐍"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Databases": {
+    "iconName": "LiDatabase",
+    "iconColor": "#c2a800"
+  },
+  "Databases/MySQL Commands.md": "LiALargeSmall",
+  "GIT": {
+    "iconName": "LiFolderGit",
+    "iconColor": "#00a1d6"
+  },
+  "GIT/GIT Commands.md": "LiALargeSmall",
+  "Python": "🐍",
+  "GIT/GIT Cheatsheet PDF.pdf": "LiFileCode2",
+  "Python/Virtual Environment initialisieren.canvas": "LiRoute",
+  "Databases/SQL Befehle.md": "LiALargeSmall",
+  "VSCode": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#002de0"
+  },
+  "VSCode/Empfehlenswerte Extensions.md": "LiALargeSmall",
+  "VSCode/VSCode Keyboard Shortcuts.pdf": "LiFileCode2",
+  "VSCode/VSCode Einstellungen.md": "LiALargeSmall",
+  "Python/Python Documentations.md": "LiALargeSmall"
+}

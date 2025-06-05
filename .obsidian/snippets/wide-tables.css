@@ -1,0 +1,12 @@
+/* Breitere Tabellen in Editor und Vorschau */
+.markdown-source-view .cm-table-widget table,
+.markdown-preview-view table {
+  width: 85% !important;      /* Nutzt die gesamte Breite */
+  table-layout: auto !important; /* Verhindert feste Spaltenbreite */
+}
+
+/* Verhindere Zeilenumbruch in Tabellenzellen */
+.markdown-source-view .cm-table-widget td,
+.markdown-preview-view td {
+  white-space: nowrap !important; /* Text bleibt in einer Zeile */
+}

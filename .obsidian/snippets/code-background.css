@@ -1,0 +1,13 @@
+.cm-s-obsidian span.cm-inline-code {
+  background-color: #00460959 !important;   /* Leicht helleres Grau */
+  color: #f8f8f2 !important;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+.markdown-preview-view code {
+  background-color: #00460959 !important;
+  color: #f8f8f2 !important;
+  padding: 0.15em 0.4em !important;
+  border-radius: 3px;
+}

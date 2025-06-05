@@ -1,0 +1,15 @@
+/* Volle Breite für Markdown-Vorschau (Viewer) */
+.markdown-preview-view {
+  max-width: 90% !important; /* ODER 100% für volle Breite */
+  margin: 0 auto !important;
+}
+
+/* Tabellen in der Vorschau breiter machen */
+.markdown-preview-view table {
+  width: 80% !important;
+}
+
+/* Verhindere Zeilenumbruch in Tabellenzellen */
+.markdown-preview-view td {
+  white-space: nowrap !important;
+}
